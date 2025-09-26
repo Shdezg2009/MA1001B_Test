@@ -21,7 +21,7 @@ M20 <- read_csv(here("data", "Datos_molec_2020.csv"))
 str(M19)
 ```
 
-1980 observaciones con 108 variables. La mayoría de las variables son cualitativas, pero están insertas como números. Se tiene que revisar en el contexto del problema cuáles son realmente numéricas.
+1980 observaciones con 108 variables. La mayoría de las variables son cualitativas, pero están insertas como números. Se tiene que revisar en el contexto del problema cuáles son realmente numéricas, prueba.
 
 ## Diccionarios
 
